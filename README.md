@@ -1,2 +1,3 @@
 # hello-world
 i'm new to this
+hi there! i'm new to coding, to github, to all this. but eager to learn... 
